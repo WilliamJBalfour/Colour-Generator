@@ -46,5 +46,13 @@ button {
   background: #333;
   border-radius: 5px;
   color: #fff;
+  box-shadow: 0 2px;
 }
+
+button:active {
+  margin-top: 22px;
+  margin-bottom: 14px;
+  box-shadow: none;
+}
+  
 
